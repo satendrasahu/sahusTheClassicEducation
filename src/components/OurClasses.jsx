@@ -26,7 +26,7 @@ const OurClasses = (props) => {
                    <OurBatches 
                    className="English Grammar"
                    classTime="6:30am - 7:30am"
-                   classStartDate="01/07/2021"
+                   classStartDate="05/07/2021"
                    classDuration="Mon - Fri"
                    courseFees=" 500/month"
                    courseOverView="englishgrammer"
@@ -36,7 +36,7 @@ const OurClasses = (props) => {
                <OurBatches 
                    className="Spoken English"
                    classTime="7:40am - 8:40am"
-                   classStartDate="01/07/2021"
+                   classStartDate="05/07/2021"
                    classDuration="Mon - Fri"
                    courseFees=" 600/month"
                    courseOverView="spokenenglish"

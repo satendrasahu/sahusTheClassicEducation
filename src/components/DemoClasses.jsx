@@ -27,9 +27,9 @@ const DemoClasses = (props) => {
                    <DemoClassesCard
                    className="English Grammar"
                    classTime="06:30am - 07:30am"
-                   classStartDate="22/06/2021"
-                   classEndDate="24/06/2021"
-                   classDuration="Tuesday - Thursday"
+                   classStartDate="28/06/2021"
+                   classEndDate="30/06/2021"
+                   classDuration="Monday -Wednesday"
                    courseFees=" Free"
                     />
                </Col>
@@ -37,9 +37,9 @@ const DemoClasses = (props) => {
                <DemoClassesCard
                    className="Spoken English"
                    classTime="07:40am - 08:40am"
-                   classStartDate="22/06/2021"
-                   classEndDate="24/06/2021"
-                   classDuration="Tuesday - Thursday"
+                   classStartDate="28/06/2021"
+                   classEndDate="30/06/2021"
+                   classDuration="Monday -Wednesay"
                    courseFees="Free"
                     />
                </Col>
@@ -59,9 +59,9 @@ const DemoClasses = (props) => {
                    <DemoClassesCard
                    className="English Grammar"
                    classTime="06:30am - 07:30am"
-                   classStartDate="25/06/2021"
-                   classEndDate="27/06/2021"
-                   classDuration=" Friday- Sunday"
+                   classStartDate="01/07/2021"
+                   classEndDate="03/07/2021"
+                   classDuration="Thursday- Saturday"
                    courseFees=" Free"
                     />
                </Col>
@@ -69,9 +69,9 @@ const DemoClasses = (props) => {
                <DemoClassesCard
                    className="Spoken English"
                    classTime="07:40am - 08:40am"
-                   classStartDate="25/06/2021"
-                   classEndDate="28/06/2021"
-                   classDuration="Friday - Sunday"
+                   classStartDate="01/07/2021"
+                   classEndDate="03/07/06/2021"
+                   classDuration="Thursday- Saturday"
                    courseFees="Free"
                     />
                </Col>
