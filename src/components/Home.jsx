@@ -3,8 +3,6 @@ import { Button } from 'react-bootstrap';
 
 import { NavLink } from 'react-router-dom'
 import logo from '../logo.svg';
-// import logo from '../sahu.jpg';
-
 
 /**
 * @author

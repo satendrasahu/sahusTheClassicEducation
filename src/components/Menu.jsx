@@ -30,11 +30,11 @@ const Menu = (props) => {
                             <NavLink className="nav-link text-white" exact activeClassName="text-dark" to="/democlasses">Demo Classes</NavLink>-
                             <NavLink className="nav-link text-white" exact activeClassName="text-dark" to="/admission">Take Admission</NavLink>-
                             <NavLink className="nav-link text-white" exact activeClassName="text-dark" to="/main">Home</NavLink>-
-                            <NavDropdown className="text-white"  title="More" id="basic-nav-dropdown">
-                                {/* <NavDropdown.Item href="/admissionform">Admission Form</NavDropdown.Item>
-                                <NavDropdown.Item href="/enquiry">Enquiry Form</NavDropdown.Item> */}
+                            {/* <NavDropdown className="text-white"  title="More" id="basic-nav-dropdown">
+                                <NavDropdown.Item href="/admissionform">Admission Form</NavDropdown.Item>
+                                <NavDropdown.Item href="/enquiry">Enquiry Form</NavDropdown.Item>
                                 <NavDropdown.Item href="/certificates">Certificates</NavDropdown.Item>
-                            </NavDropdown>
+                            </NavDropdown> */}
                         </Nav>
 
                         <NavLink className="nav-link text-white" exact activeClassName="text-dark" to="/aboutus">About Us</NavLink>
