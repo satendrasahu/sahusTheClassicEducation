@@ -25,7 +25,7 @@ const Certificates = (props) => {
                 
             </Col>
             <Col data-aos="slide-left" sm={12} md={6}>
-            <img className="cetiImg" src={process.env.PUBLIC_URL+"/EnglishGrammar.jpg"} alt=""/>
+            <img className="cetiImg" src={process.env.PUBLIC_URL+"/englishGrammar.jpg"} alt=""/>
                 
             </Col>
 

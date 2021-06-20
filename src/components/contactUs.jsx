@@ -71,7 +71,7 @@ const ContactUs = (props) => {
       
       <iframe 
           src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3615.4254375281166!2d78.2357658149582!3d25.019632283979124!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3979e77928252e5f%3A0x104d8a967b1b1fba!2sMahesh%20%2F%20rakesh%20sahu%20galla%20shop!5e0!3m2!1sen!2sin!4v1623827783479!5m2!1sen!2sin" 
-        title="formap"   width="750" height="600" allowfullscreen="" loading="lazy">
+        title="formap"   width="798" height="560" allowfullscreen="" loading="lazy">
       </iframe>
             
             </Table>
