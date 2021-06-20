@@ -1,0 +1,37 @@
+.contDiv {
+    margin: 2%;
+    // padding: 25%;
+}
+
+.aTag {
+    color: green;
+     :hover {
+        color: #ffffff;
+    }
+}
+
+p {
+    color: #ffffff;
+    font-size: 30px
+}
+
+.details {
+    border: 1px solid #ffffff;
+    padding: 35%;
+    padding-top: 5%;
+    padding-bottom: 5%;
+    color: #ffffff;
+}
+
+@media screen and(max-width: 500px) {
+    p {
+        color: #ffffff;
+        font-size: 20px;
+    }
+    .details {
+        border: 1px solid #000000;
+        padding: 3%;
+        margin: 3%;
+        color: #ffffff;
+    }
+}

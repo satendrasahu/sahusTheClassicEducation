@@ -1,0 +1,16 @@
+.certificateDiv {
+    margin: 1%;
+}
+
+.cetiImg {
+    height: 650px;
+}
+
+@media screen and(max-width: 500px) {
+    .cetiImg {
+        max-width: 400px
+    }
+    .certificateDiv {
+        margin: 0%;
+    }
+}

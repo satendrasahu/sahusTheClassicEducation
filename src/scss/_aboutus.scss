@@ -1,0 +1,26 @@
+.imgStyle {
+    height: 700px;
+    // width: 500px;
+}
+
+.carDiv {
+    margin-left: 3.5%;
+    margin-right: 3.5%;
+    margin-bottom: 3.5%;
+}
+
+.aboutDiv {
+    padding: 10%;
+    padding-top: 27%;
+    padding-bottom: 27%;
+}
+
+@media screen and(max-width: 500px) {
+    .carDiv {
+        margin: 0;
+    }
+    .imgStyle {
+        height: 600px;
+        // width: 500px;
+    }
+}

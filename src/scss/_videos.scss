@@ -1,0 +1,20 @@
+.videoDiv {
+    height: 500px;
+    width: 600px;
+    margin-top: 10%;
+    margin-bottom: 10%;
+    margin-left: 30%;
+    margin-right: 30%;
+    border: 20px solid red;
+    border-radius: 20px;
+}
+
+@media screen and(max-width: 500px) {
+    .videoDiv {
+        border: 0px solid red;
+        border-radius: 0px;
+        height: 100%;
+        width: 98%;
+        margin: 1%;
+    }
+}
