@@ -80,6 +80,7 @@ const Admission = (props) => {
     
         </div>
       <Videos/>
+      
       <Certificates/>
     </>
    )
