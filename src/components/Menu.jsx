@@ -1,6 +1,7 @@
 import React from 'react'
 import { Nav, Navbar, NavDropdown} from 'react-bootstrap'
-import { NavLink } from 'react-router-dom'
+import { NavLink } from 'react-router-dom';
+import logo from '../img/sahu1.jpg'
 
 
 /**
@@ -17,7 +18,7 @@ const Menu = (props) => {
                     <NavLink to="/" className="navbar-brand">
                         <img
                             alt=""
-                            src={process.env.PUBLIC_URL+"sahu1.jpg"}
+                            src={logo}
                             width="30"
                             height="30"
                             className="d-inline-block align-top"
