@@ -31,15 +31,16 @@ const App = (props) => {
       <Route exact path="/main" component={Main}/>
       <Route exact path="/aboutus" component={aboutUs}/>
       <Route exact path="/contactus" component={ContactUs}/>
+      <Route exact path="/certificates" component={Certificates}/>
       <Route exact path="/democlasses" component={DemoClasses}/>
-      <Route exact path="/admission" component={Admission}/>
+      <Route exact path="/englishGrammer" component={EnglishGrammer}/>
       <Route exact path="/ourclasses" component={OurClasses}/>
       <Route exact path="/contactus" component={ContactUs}/>
+      <Route exact path="/admission" component={Admission}/>
       <Route exact path="/enquiry" component={EnquiryForm}/>
       <Route exact path="/admissionform" component={AdmissionForm}/>
-      <Route exact path="/englishGrammer" component={EnglishGrammer}/>
+  
       <Route exact path="/spokenenglish" component={SpokenEnglish}/>
-      <Route exact path="/certificates" component={Certificates}/>
     </Switch>
     </>
    )
